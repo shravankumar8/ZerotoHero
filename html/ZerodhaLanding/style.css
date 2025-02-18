@@ -1,0 +1,66 @@
+.mainDiv {
+  margin: 0 40px;
+  width: 100%;
+}
+.imageBar {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 20px 120px;
+}
+.lables ul {
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+  width: 100%;
+  margin: 0px auto;
+  border-color: aqua;
+  gap: 50px;
+  font-size: 17px;
+  font-weight: lighter;
+  font: lighter;
+  opacity: 0.5;
+}
+.imageLogo img {
+  width: 135px;
+}
+
+.HeroImg{
+
+   width: 100%;
+    text-align: center;
+    margin-top:76px;
+    margin-left: -46px;
+}
+.HeroImg img{
+    max-width: 875px;
+    
+
+    display: block;
+    margin:auto auto; 
+}
+.HeroText{
+    
+    margin-top: 20px;
+    width: 100%;
+     text-align: center;
+}
+.mainText{
+    opacity: 0.7;
+    font-size:55px;
+}
+.subText{
+     opacity: 0.5;
+    margin-top: 20px;
+font-size: larger;
+}
+.SignupButton{
+    padding: 12px 35px;
+    background-color: #387ed1;
+    display: inline-block;
+    margin-top: 50px;
+    color: white;
+    font-size: larger;
+    border-radius:7px;
+}
